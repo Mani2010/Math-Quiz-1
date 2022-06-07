@@ -1,0 +1,8 @@
+html 
+{
+scroll-behavior: smooth;
+}
+#Body_Background{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(54,54,164,1) 0%, rgba(53,63,164,1) 5%, rgba(31,129,182,1) 38%, rgba(41,242,169,1) 100%);
+}
